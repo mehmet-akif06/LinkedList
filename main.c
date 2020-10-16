@@ -1,3 +1,7 @@
+// Linked list C-Code
+// by Mehmet Akif Ortayagci
+
+
 #include "stdio.h"
 #include "stdlib.h"
 #include "pthread.h"
