@@ -98,6 +98,8 @@ int main(int argc, char const *argv[]) {
   add_element(&list,7);
   add_element(&list,5);
   add_element(&list,3);
+  add_element(&list,3541);
+  add_element(&list,6969);
   print_list(list);
   printf("Die Liste enthaelt %d Elemente\n",list_length(list));
 
